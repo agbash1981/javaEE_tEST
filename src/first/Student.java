@@ -29,7 +29,7 @@ public class Student {
 		this.name = name;
 	}
 
-
+	// getter for student age.
 	public int getAge() {
 		return age;
 	}
