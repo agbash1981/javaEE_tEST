@@ -6,12 +6,12 @@ public class Student {
 	private String classes;
 	
 	
-	
+	// student unloaded constructor.
 	public Student() {
 		
 	}
 
-
+	// student loaded constructor.
 	public Student(String name, int age, String classes) {
 		
 		this.name = name;
