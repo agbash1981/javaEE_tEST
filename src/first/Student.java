@@ -6,13 +6,14 @@ public class Student {
 	private String classes;
 	
 	
+	
 	public Student() {
-		super();
+		
 	}
 
 
 	public Student(String name, int age, String classes) {
-		super();
+		
 		this.name = name;
 		this.age = age;
 		this.classes = classes;
