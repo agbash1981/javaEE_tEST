@@ -19,7 +19,7 @@ public class Student {
 		this.classes = classes;
 	}
 
-
+	// getter method for getting string name.
 	public String getName() {
 		return name;
 	}
